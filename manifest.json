@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Cat\u00e1logo de IAs",
+  "version": "1.0",
+  "description": "Extensi\u00f3n para guardar y subir autom\u00e1ticamente IAs a GitHub",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "storage",
+    "scripting"
+  ]
+}
